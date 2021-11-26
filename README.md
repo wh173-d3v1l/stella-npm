@@ -7,6 +7,11 @@
  ## INSTALLATION
  ` npm install -g stella-npm `
  
+
+## Issues 
+
+[Submit Issues](https://github.com/riz4d/stella-npm/issues)
+ 
  ## Developer InFo
  
 [![Contributers](https://contributors-img.web.app/image?repo=riz4d/stella-npm)](https://github.com/riz4d)
